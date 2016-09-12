@@ -270,20 +270,17 @@ function create_config( )
     "run1",
     "redis"
     },
-    sudo_users = { 218385683,0,tonumber(our_id)},--Sudo users
+    sudo_users = { 153374304,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[🚏- اهلا بك عزيزي WeLcOmE
-سورس ديف بروكس ( DevProx )
+    about_text = [[🚏- اهلا بك عزيزي WeLcOm ASHRAF ( V3)
 
 〰 ➗ 〰 ✖️ 〰 ➕ 〰
-Developer ⛳️🏒  :
-🔸 - @IQ_ABS
-Channel sors 🏈  :
-🔹 - @DEV_PROX
+
+🔹 - @SAN8iQ
 〰 ➗ 〰 ✖️ 〰 ➕ 〰
 
 🛰 - رابط السورس :
-https://github.com/iqabs/DevProx.git : link in githup]],
+https://github.com/ASHRAF/DevProx.git : link in githup]],
     help_text = [[ْDEV @IQ_ABS]],
 	help_text_super =[[ْDEV @IQ_ABS]],
 help_text_realm = [[ْDEV @IQ_ABS]],
